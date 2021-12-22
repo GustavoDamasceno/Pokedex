@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "listaweb",
+  "version": "1.0.0",
+  "description": "lista de web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "promises": "^0.2.5"
+  }
+}
